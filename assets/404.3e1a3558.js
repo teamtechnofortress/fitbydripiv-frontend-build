@@ -1,1 +1,1 @@
-const s="/frontend/assets/404.fee4b60b.png";export{s as m};
+const s="/assets/404.fee4b60b.png";export{s as m};
