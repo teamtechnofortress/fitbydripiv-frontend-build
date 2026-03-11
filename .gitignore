@@ -128,7 +128,7 @@ backend/
 .env
 backend/.env
 
-# Laravel dependencies
+# Laravel dependenciesd
 backend/vendor/
 backend/node_modules/
 
@@ -141,3 +141,7 @@ frontend/uploads/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Server routing files
+index.php
+.htaccess
