@@ -1,0 +1,1 @@
+const r=e=>{if(!e)return"";const t=String(e).trim();return t?/^https?:\/\//i.test(t)?t:t==="/new"||t==="/new/"||t==="new"||t==="new/"?"/":t.startsWith("/new/")?t.slice(4):t.startsWith("new/")?`/${t.slice(4)}`:t:""};export{r as normalizePublicSitePath};
