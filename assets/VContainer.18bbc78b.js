@@ -1,0 +1,1 @@
+import"./VCol.89080657.js";import{a0 as n,a1 as o,a6 as s,k as r}from"./index.27979be2.js";const d=n({name:"VContainer",props:{fluid:{type:Boolean,default:!1},...o()},setup(e,a){let{slots:t}=a;return s(()=>r(e.tag,{class:["v-container",{"v-container--fluid":e.fluid}]},t)),{}}});export{d as V};
