@@ -1,1 +1,0 @@
-import{q as t,o as s,e as r,f as c}from"./index.6a126078.js";import{b as e}from"./route-block.023af118.js";const n={class:"min-h-screen"},a={__name:"home",setup(_){const o=t();return s(()=>{o.replace("/")}),(m,p)=>(r(),c("div",n))}};typeof e=="function"&&e(a);export{a as default};
