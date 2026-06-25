@@ -10,7 +10,7 @@ html {
 #loading-bg {
   position: absolute;
   display: block;
-  background: var(--initial-loader-bg, #25293C);
+  background: var(--initial-loader-bg, #fff);
   block-size: 100%;
   inline-size: 100%;
 }
