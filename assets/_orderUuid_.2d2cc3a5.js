@@ -1,1 +1,0 @@
-import o from"./journey.c355d9e2.js";import{b as r}from"./route-block.023af118.js";import{b as t,y as e}from"./index.0a5f03ba.js";import"./const.499b0f21.js";import"./checkoutApi.69b44006.js";import"./v4.a029b890.js";const p={__name:"[orderUuid]",setup(m){return(a,c)=>(t(),e(o))}};typeof r=="function"&&r(p);export{p as default};
